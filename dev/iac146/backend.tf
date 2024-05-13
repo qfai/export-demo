@@ -3,6 +3,6 @@ terraform {
     resource_group_name  = "IacAutomationTest"
     storage_account_name = "exportbackend"
     container_name       = "backend"
-    key                  = "sample.tfstate"
+    key                  = "iac146.tfstate"
   }
 }
